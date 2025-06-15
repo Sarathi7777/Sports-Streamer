@@ -1,0 +1,12 @@
+{
+  "name": "stream-viewer",
+  "version": "1.0.0",
+  "description": "A web application for viewing m3u8 streams",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
