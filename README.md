@@ -1,1 +1,1 @@
-### M3U8 Scraper
+### M3U8/HLS Scraper
